@@ -82,7 +82,8 @@ def adding_matz
           :languages => ["C"]
         }
      }
- 
+  programmer_hash[:yukihiro_matsumoto] = "lol" 
+  programmer_hash
     
 end
 
